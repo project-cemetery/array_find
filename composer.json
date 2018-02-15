@@ -1,0 +1,27 @@
+{
+  "name": "TheNovel/array_find",
+  "description": "A PHP function that find element in an array by a callback.",
+  "type": "library",
+  "keywords": ["array", "find", "array_find"],
+  "homepage": "https://github.com/TheNovel/array_find",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Igor Kamyshev",
+      "email": "garik.novel@gmail.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/TheNovel/array_find/issues",
+    "source": "https://github.com/theNovel/array_find"
+  },
+  "require": {
+    "php": ">=7.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.5"
+  },
+  "autoload": {
+    "files": ["src/array_find.php"]
+  }
+}
