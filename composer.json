@@ -1,5 +1,5 @@
 {
-  "name": "TheNovel/array_find",
+  "name": "kamyshev/array_find",
   "description": "A PHP function that find element in an array by a callback.",
   "type": "library",
   "keywords": ["array", "find", "array_find"],
