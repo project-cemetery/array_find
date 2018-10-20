@@ -2,6 +2,8 @@
 [![Build Status](https://img.shields.io/travis/igorkamyshev/array_find/master.svg?style=flat-square)](https://travis-ci.org/igorkamyshev/array_find)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/TheNovel/array_find/master/LICENSE)
 
+[DEPRECATED] This is no longer supported, please consider using [array_actions](https://github.com/igorkamyshev/array_actions) instead.
+
 # array_find
 > A PHP function that find element in an array by a callback.
 
